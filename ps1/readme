@@ -1,0 +1,7 @@
+Problem Set 1: System calls, error checking and reporting
+
+--Write a C program that opens named input files in order and
+concatenates contests of the file to the output. All I/O must be performed with
+UNIX system calls
+
+--Experiment with different buffer sizes and time(1)
