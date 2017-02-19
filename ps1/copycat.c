@@ -47,8 +47,7 @@ int main(int argc, char **argv) {
     char *outfile = NULL;
     int ofd = STDOUT, ifd = STDIN;
     int index;
-    int n_written, n_read;
-
+    
     //get arguments
     int c;
     while ((c = getopt(argc, argv, "b:o:")) != -1)
